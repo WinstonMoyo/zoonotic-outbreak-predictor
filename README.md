@@ -61,6 +61,6 @@ A final **ensemble model** aggregates all three predictions for a comprehensive 
 
 ## 📚 Acknowledgements
 
-This project was developed as part of a final year Computer Science project at [Your University Name], integrating real-world scientific research with machine learning techniques.
+This project was developed as part of a final year Computer Science project at Nottingham Trent University, integrating real-world scientific research with machine learning techniques.
 
 
